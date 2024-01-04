@@ -1,0 +1,22 @@
+# Default
+beautifulsoup4
+rank-bm25
+fastapi
+langchain
+matplotlib
+openai
+pre-commit
+python-dotenv
+ray
+seaborn
+sentence_transformers
+slack_bolt
+streamlit
+structlog
+typer
+tiktoken
+llama-cpp-python
+
+# Vector DB
+chromadb
+
